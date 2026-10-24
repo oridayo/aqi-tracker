@@ -1,5 +1,7 @@
 # 🌍 AQI Tracker — Discord Bot with Firebase Integration
 
+Why worry about Indonesia's haze, when I can create a Discord bot to track and notify me hourly on how unhealthy I will be.
+
 A Discord bot that fetches **real-time Air Quality Index (AQI)** data from the [WAQI (World Air Quality Index)](https://waqi.info) open data platform, posts colour-coded rich embeds to Discord channels, and persists channel subscriptions and timestamps to **Google Cloud Firebase Firestore**. Default station: **Kuala Lumpur (H5780)**.
 
 ---
